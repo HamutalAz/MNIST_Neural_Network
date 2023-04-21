@@ -58,6 +58,7 @@ We trained the described model for 10 epochs on the MNIST dataset and got 92.74%
 <img width="1440" alt="Screenshot 2023-04-21 at 12 42 48" src="https://user-images.githubusercontent.com/76840545/233612899-ba4f1177-0fd0-447e-9fb4-1c8a837562e2.png">
 At this run, we got 98.81% accuracy with 100 epochs. However, we noticed that after 50 epochs, the loss stabilized. Therefore, we decided to set the epochs number to 54.
 
+
 Finally, we got to the described model and got 98.06% accuracy.
 
 **How to run the model**
@@ -68,7 +69,7 @@ You can upload it and use it by running the method load(“myModel.npz”) that 
 
 **What can be improved?**
 
-Convolutional layers can be added to the model and may improve the model's accuracy.
+1\.Convolutional layers can be added to the model and may improve the model's accuracy.
 
 2\. Initializing the weights using Adam optimizer.
 
