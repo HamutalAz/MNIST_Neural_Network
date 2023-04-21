@@ -54,8 +54,7 @@ We trained the described model for 10 epochs on the MNIST dataset and got 92.74%
 
 ` `Based on the graphs above, we set the learning rate to 0.1.
 
-1. To find the optimal epochs number for generalization, we trained the model with 100 epochs on the training set, with the chosen learning rate.
-
+5. To find the optimal epochs number for generalization, we trained the model with 100 epochs on the training set, with the chosen learning rate.
 
 <img width="1440" alt="Screenshot 2023-04-21 at 12 42 48" src="https://user-images.githubusercontent.com/76840545/233612899-ba4f1177-0fd0-447e-9fb4-1c8a837562e2.png">
 
